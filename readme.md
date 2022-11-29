@@ -3,17 +3,19 @@
 Model for classifying consumer reviews on a wide range of medicines.
 In the notebook it is possible to find a baseline based on bert's finetuning for the previously described task, with further hints at the end for possible further improvements.
 
-### Quick start:
+## Quick start:
 
-#### Locally:
+### Locally:
 
 > python3 -m venv env
-> source env/bin/activate
-> pip3 install -r requirements.txt
-(wait a while for installation)
-run drugreview.ipynb
 
-#### On google Co-lab:
+> source env/bin/activate
+
+> pip3 install -r requirements.txt
+
+(wait a while for installation then ) run drugreview.ipynb
+
+### On google Co-lab:
 
 run drugreview Co-lab.ipynb
 
