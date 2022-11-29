@@ -11,7 +11,7 @@ In the notebook it is possible to find a baseline based on **Bert finetuning** f
 
 > pip3 install -r requirements.txt
 
-(wait a while for installation then ) run drugreview.ipynb
+run drugreview.ipynb
 
 **Google Co-lab option**: just git clone and run 'drugreview Co-lab.ipynb' in Co-lab.
 
