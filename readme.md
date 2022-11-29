@@ -5,8 +5,6 @@ In the notebook it is possible to find a baseline based on bert's finetuning for
 
 ## Quick start:
 
-### Locally:
-
 > python3 -m venv env
 
 > source env/bin/activate
@@ -15,9 +13,7 @@ In the notebook it is possible to find a baseline based on bert's finetuning for
 
 (wait a while for installation then ) run drugreview.ipynb
 
-### On google Co-lab:
-
-run drugreview Co-lab.ipynb
+**Google Co-lab option**: just git clone and run 'drugreview Co-lab.ipynb' in Co-lab.
 
 ## Note:
 - the code works both for cpu and gpu (but training witch CPU is not feasble)
