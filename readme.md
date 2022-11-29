@@ -17,4 +17,4 @@ In the notebook it is possible to find a baseline based on bert's finetuning for
 
 ## Note:
 - the code works both for cpu and gpu (but training witch CPU is not feasble)
-- in the local code the parameter 'training_subset' is 3 by default, change to traing/evaluate on more than 3 samples
+- in the local code the parameter 'training_subset' is 3 by default, change to train/evaluate on more than 3 samples
