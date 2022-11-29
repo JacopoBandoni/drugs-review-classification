@@ -1,7 +1,7 @@
 # Drug review rating classification
 
 Model for classifying consumer reviews on a wide range of medicines.
-In the notebook it is possible to find a baseline based on bert's finetuning for the previously described task, with further hints at the end for possible further improvements.
+In the notebook it is possible to find a baseline based on **Bert finetuning** for the previously described task, with further hints at the end for possible further improvements.
 
 ## Quick start:
 
