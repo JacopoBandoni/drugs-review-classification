@@ -1,11 +1,11 @@
-## Drug review rating classification
+# Drug review rating classification
 
 Model for classifying consumer reviews on a wide range of medicines.
 In the notebook it is possible to find a baseline based on bert's finetuning for the previously described task, with further hints at the end for possible further improvements.
 
-## Quick start:
+# Quick start:
 
-### Locally:
+## Locally:
 
 > python3 -m venv env
 
@@ -15,7 +15,7 @@ In the notebook it is possible to find a baseline based on bert's finetuning for
 
 (wait a while for installation then ) run drugreview.ipynb
 
-### On google Co-lab:
+## On google Co-lab:
 
 run drugreview Co-lab.ipynb
 
